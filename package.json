@@ -1,0 +1,24 @@
+{
+  "name": "achvd.co",
+  "version": "1.0.0",
+  "description": "Achvd.co is a platform to create your own life's timeline.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opvini/achvd.co.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opvini/achvd.co/issues"
+  },
+  "homepage": "https://github.com/opvini/achvd.co#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
